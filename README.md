@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lost student trying to survive
 
 *   🌍  I'm based in Milan, Italy
+*   📖  Currently studying at [UNIMI](https://www.unimi.it/it)
 *   ✉️  You can contact me at [alessandro.bordo41@gmail.com](mailto:alessandro.bordo41@gmail.com)
 *   🧠  I'm learning Self-hosting stuff, Embedded Programming and AI
 
